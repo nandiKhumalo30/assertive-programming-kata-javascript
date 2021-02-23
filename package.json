@@ -1,0 +1,22 @@
+{
+  "name": "nandi-khumalo-184-assertive-programming-kata-javascript",
+  "version": "1.0.0",
+  "description": "Assertive programming kata (184) For raw project instructions see: http://syllabus.africacode.net/projects/basic-flow-control-katas-assertive/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Nandi-Khumalo-184-assertive-programming-kata-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Nandi-Khumalo-184-assertive-programming-kata-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Nandi-Khumalo-184-assertive-programming-kata-javascript#readme",
+  "dependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
